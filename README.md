@@ -17,3 +17,14 @@
   <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/220941ab-3a47-49fb-b131-c1e0b14009b5"></td>
    <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/dc165722-7b31-48fb-8f3d-f3bd109bd1a9"></td></tr>
   </table>
+
+## Lab3 Histogram Matching
+<table>
+  <tr><th>Input Image Histogram</th><th>Target Histogram</th><th>Output Image Histogram</th></tr>
+  <tr><td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/17e1cf7a-32ce-4048-b292-b3a14ce54258"></td>
+  <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/6282e8ef-506d-4271-8c6e-94d1cce01205"></td>
+   <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/4a102e6c-ea50-4247-a712-63fe038d6237"></td></tr>
+  </table>
+
+
+  
