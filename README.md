@@ -25,6 +25,20 @@
   <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/6282e8ef-506d-4271-8c6e-94d1cce01205"></td>
    <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/4a102e6c-ea50-4247-a712-63fe038d6237"></td></tr>
   </table>
-
-
   
+  ## Lab4 Fourier Domain Filtering
+  <table>
+  <tr><th>Input Image</th><th>Canny Edge</th><th>Single Contour</th></th></tr>
+  <tr><td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/accb5561-2092-4dd7-a9ac-092b4074a570"></td>
+  <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/2234eb52-13f9-47e2-a11f-1e656c64ace3"></td>
+   <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/3f6ac9ee-a527-47a2-9269-e8544a0014f2"></td></tr>
+  </table>
+
+  <table>
+  <tr><th>Input Image</th><th>Canny Edge</th><th>Multiple Contours</th></th></tr>
+  <tr><td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/50fc87ba-8ffc-467e-ade3-ff90309f2c16"></td>
+  <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/33e3b4b9-8001-4967-b1c6-56f1e862a0d4"></td>
+   <td><img align="left" alt="" height="250" src="https://github.com/Nushrat-Tarmin-Meem/Image_Processing_Computer_Vision/assets/127888834/273d72c3-c999-464f-934f-835612f1c1a0"></td></tr>
+  </table>
+
+
